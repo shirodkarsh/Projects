@@ -2,4 +2,4 @@
 
 Repository of my projects:
 
-1) QC Sequencing of Sea Anemones
+1) Short Read Alignment 
