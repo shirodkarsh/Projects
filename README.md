@@ -1,4 +1,4 @@
-# scripts-and-projects
+# Projects
 
 Repository of my projects:
 
